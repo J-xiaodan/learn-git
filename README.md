@@ -1,3 +1,3 @@
-This is a test file. by jxiaodan
+This is a test file.
 
-Please read me first. by jxiaodan
+Please read me first.
